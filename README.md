@@ -1,6 +1,7 @@
 # RCWS - Radio Communication & Wireless System
 
 A professional PyQt5-based GUI application for radio communication and wireless system monitoring, control, and management.
+<img width="1920" height="1080" alt="Screenshot from 2026-03-30 10-42-25" src="https://github.com/user-attachments/assets/e135be38-929b-4b8f-ac33-0bf1b2f08fd0" />
 
 ## Table of Contents
 
@@ -144,11 +145,6 @@ UDP_PORT_BIND = 0               # Auto-select port
 UDP_IP_DEST = "127.0.0.1"       # Destination IP
 UDP_PORT_DEST = 5001            # Destination port
 BUFFER_SIZE = 8192              # Communication buffer size
-```
-
-### Streaming Configuration
-```python
-DEFAULT_RTSP_URL = "rtsp://192.168.1.97:1123/gs"
 ```
 
 ### Deployment Paths
